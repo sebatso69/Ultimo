@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulador.Models", "Simulador.Models\Simulador.Models.csproj", "{A4235397-8885-4B04-A09C-7BC40C2B33E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulador.API", "Simulador.API\Simulador.API.csproj", "{08196973-20FF-4EF1-BCA3-F29074FF417A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4235397-8885-4B04-A09C-7BC40C2B33E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4235397-8885-4B04-A09C-7BC40C2B33E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4235397-8885-4B04-A09C-7BC40C2B33E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4235397-8885-4B04-A09C-7BC40C2B33E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08196973-20FF-4EF1-BCA3-F29074FF417A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08196973-20FF-4EF1-BCA3-F29074FF417A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08196973-20FF-4EF1-BCA3-F29074FF417A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08196973-20FF-4EF1-BCA3-F29074FF417A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F583854-0EE2-418C-9812-46F90923FB5D}
+	EndGlobalSection
+EndGlobal
